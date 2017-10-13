@@ -4,5 +4,6 @@
 
 由于高德地图SDK太大，所以需要自己集成。  
 pod 'AMap2DMap'   
+
 pod 'AMapSearch'
 
